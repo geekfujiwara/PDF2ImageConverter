@@ -6,7 +6,10 @@ PDF2Image by Geek Fujiwara (@geekfujiwara)
 
 A desktop application that converts PDF files to high-quality images (PNG format). It provides a simple and user-friendly GUI interface, supporting both single file conversion and batch conversion of multiple files.
 
-https://github.com/user-attachments/assets/91e373b4-36c3-4263-bbac-7bcdbb059799
+
+https://github.com/user-attachments/assets/938bbf6a-a9e7-4c93-b641-44b129f2764c
+
+
 
 >[!Note]
 >[Distribution](https://github.com/geekfujiwara/PDF2ImageConverter/tree/main/dist) has been created. So you can use this app without install.
